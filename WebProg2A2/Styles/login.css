@@ -1,0 +1,47 @@
+@font-face
+{
+	font-family: TrajanFF;
+	src: url('../Styles/trajan_pro.woff');
+}
+body {
+	margin:0;
+	padding:0;
+	font-family: TrajanFF, arial, serif;
+	font-size:15px;
+	color: #e4c975;
+	background-color: black;
+}
+#login-box{
+	width: 280px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #e7b168;
+	border-radius: 10px 0px 10px 0px;
+	background-color: grey;	
+	margin: 120px auto auto auto;
+}
+#container{
+	width: 1024px;
+	margin:auto;
+	background-color: black;
+	
+}
+#login-message{
+	font-size: 8pt;
+	color: red;		
+}
+#top-strip{
+	width: 100%;
+	background-color: grey;	
+	height:22px;
+}
+#registerlink{
+	font-size: 8pt;	
+}
+a{
+	color:white;	
+}
+.centre{
+	width: 1024px;
+	margin:auto;		
+}

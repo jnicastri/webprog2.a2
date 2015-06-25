@@ -1,0 +1,42 @@
+.label{
+	padding-right: 50px;	
+}
+#form-container{
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #e7b168;
+	border-radius: 10px 0px 10px 0px;
+	width: 85%;
+	margin: 25px 0px 25px 25px;
+	padding: 15px;
+	box-shadow: 5px 5px 5px #31302f;
+	font-size:12px;	
+}
+#form-controls{
+	margin-left: 247px;	
+}
+.main-content-p{
+	padding: 0px 15px 0px 20px;
+}
+
+#fname-error-ph,
+#lname-error-ph,
+#uname-error-ph,
+#pwd-error-ph,
+#dob-error-ph,
+#gender-error-ph,
+#email-error-ph,
+#member-type-error-ph,
+#member-term-error-ph{
+	font-family: arial, serif;
+	color: red;	
+	font-size: 12px;
+}
+.statusLine{
+	font-family: arial, serif;
+	color: blue;	
+	font-size: 12px;		
+}
+.statusLine a{
+	color: yellow;	
+}

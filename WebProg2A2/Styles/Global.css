@@ -1,0 +1,149 @@
+@font-face
+{
+	font-family: TrajanFF;
+	src: url('../Styles/trajan_pro.woff');
+}
+body {
+	margin:0;
+	padding:0;
+	font-family: TrajanFF, arial, serif;
+	font-size:15px;
+	color: #e4c975;
+	background-color: black;
+}
+#container{
+	width: 1024px;
+	margin:auto;
+	background-color: black;
+	
+}
+#header{
+	width:100%;
+	height:	125px;
+	background-color: black;
+}
+#head-logo{
+	background-image: url('../Images/Global/logo.png');
+	background-repeat:no-repeat;
+	background-position:left top;
+	height: 100%; 	
+}
+#main-content{
+	display: inline;
+	width: 100%;		
+}
+#nav h4{
+	margin-left: 8px;
+	margin-top: 10px;
+	margin-bottom: 10px;	
+}
+#centre-content{
+	float: right;
+	width: 80%;	
+	margin-top: 8px;		
+}
+#footer{
+	width: 100%;
+	margin-top: 8px;
+	text-align: center;
+	font-size: 8pt;	
+}
+.yellow-divider{
+	background-image: url('../Images/Global/FullWidthDiv.png');
+	background-repeat: no-repeat;
+	height: 5px;		
+}
+.yellow-divider-small{
+	background-image: url('../Images/Global/SmallWidthDiv.png');
+	background-repeat: no-repeat;
+	height: 5px;	
+}
+.yellow-divider-medium{
+	background-image: url('../Images/Global/MediumWidthDiv.png');
+	background-repeat: no-repeat;
+	height: 8px;	
+}
+#nav{
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #e7b168;
+	border-radius: 10px 0px 10px 0px;
+	width: 18%;	
+	margin-top: 8px;
+	float: left;	
+	box-shadow: 5px 5px 5px #31302f;
+}
+#nav ul{
+	list-style-image: url('../Images/Global/sword-bullet.png');
+	padding-left: 28px;	
+}
+.clear{
+	clear:both;
+}
+.sword-img{
+	/*background-image: url('../Images/Global/mini-sword.png');*/
+	/*background-repeat: no-repeat;	*/
+	vertical-align: middle;
+	height: 20px;
+}
+#social-badges{
+	width: 100%;
+}
+a:link{
+	color:inherit;
+	text-decoration: none;	
+}
+a:visited{
+	color: inherit;
+	text-decoration: none;	
+}
+a:hover{
+	text-decoration: underline;	
+}
+.padder{
+	height: 8px;	
+}
+#centre-content p{
+	font-size: 12px;	
+}
+.sword-img{
+		
+}
+body .centre{
+	width: 1024px;
+	margin:auto;		
+}
+body #top-strip{
+	width: 100%;
+	background-color: grey;	
+	height:25px;
+	line-height:25px;
+	position: fixed;
+	z-index: 1;
+}
+.nav-button{
+	width: 240px;
+	height: 40px;
+	padding: 5px;
+	line-height: 40px;
+	border: solid 3px #e7b168;
+	cursor: pointer;
+	text-align: center;
+	font-size: 12pt;
+	margin: 0 auto;
+	background-color: grey;
+	font-weight: bold;
+	position: relative;
+}
+.link-expander{
+	position:absolute; 
+	width:100%;
+	height:100%;
+	top:0;
+	left: 0;
+	
+	z-index:1;
+}
+
+
+

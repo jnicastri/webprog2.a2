@@ -1,0 +1,9 @@
+Product1;Lord of the Rings Trilogy: Extended Edition;99.99;Blu-Ray Disc; Buy all 3 LOTR films in one pack
+Product2;The Hobbit: An Unexpected Journey;34.99;3D Blu-Ray Disc;Watch Hobbit: Unexpected Journey in 3D!!!!
+Product3;Lord of the Rings: Return of the King;24.99;Blu-Ray Disc;Watch the final LOTR chapter in High Def!
+Product4;Lord of the Rings: Fellowship of the Ring;24.99;Blu-Ray Disc;Relive the first film in High Def!!
+Product5;Lord of the Rings: The Two Towers;24.99;Blu-Ray Disc;Watch the Two Towers in high definition
+Product6;The Hobbit Logo Male T-Shirt Grey;29.99;Apparel;You'll look awesome in this - Hobbit Shirt!
+Product7;The Hobbit Logo Male T-Shirt Black;29.99;Apparel;Another fantastic t-shirt - Logo on Black
+Product10;The Hobbit: Desolation of Smaug Gandalf Coffee Mug;9.99;Drinkware;Like Coffee?? Here's a mug you should buy
+Product13;Hobbit: Bilbo Acorn iPhone 4/4s Cover;19.99;Misc Accessories;Protect your iPhone with the great cover

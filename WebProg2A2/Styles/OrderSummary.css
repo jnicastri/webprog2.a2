@@ -1,0 +1,19 @@
+table{
+	width:100%;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #e7b168;
+	border-radius: 10px 0px 10px 0px;	
+	
+}
+th{
+	font-weight: bold;
+	background-color: grey;
+	text-align:left;
+	line-height: 30px;	
+}
+td{
+	border-bottom: solid 1px grey;	
+}
+td a{
+	margin: 0 auto;
